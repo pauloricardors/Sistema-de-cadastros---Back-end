@@ -65,8 +65,7 @@ O **Sistema de Cadastro de Usuários** permite que usuários se registrem, faça
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-cadastro-usuarios.git
-cd sistema-cadastro-usuarios
+git clone https://github.com/pauloricardors/Sistema-de-cadastros---Back-end.git
 
 ```
 
@@ -135,6 +134,5 @@ The **User Registration System** allows users to register, log in, and access a 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/user-registration-system.git
-cd user-registration-system
+git clone https://github.com/pauloricardors/Sistema-de-cadastros---Back-end.git
 ```
